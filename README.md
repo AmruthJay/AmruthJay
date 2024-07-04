@@ -1,4 +1,11 @@
-![Animated Header](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Animated Header" style="width: 249px; height: auto;">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Animated Header" style="width: 249px; height: auto;">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Animated Header" style="width: 249px; height: auto;">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Animated Header" style="width: 249px; height: auto;">
+</div>
+
+
 
 <h1 align="center">Hello 👋, This is Amruth</h1>
 
