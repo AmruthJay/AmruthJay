@@ -9,11 +9,11 @@
 
 
 
-- 🌱 I’m currently learning **GCP (Devops), Machine Learning, Data Science**
+- 🌱 I’m currently learning **GCP (Devops), Machine Learning, Data Science.**
 
-- 💬 Ask me about **Cloud Engineering, AI & ML**
+- 💬 Ask me about **Cloud Engineering, AI & ML.**
 
-- 📫 How to reach me **amruth.charansai@gmail.com**
+- 📫 How to reach me : **amruth.charansai@gmail.com**
 
 - ⚡ Fun fact : **Comparison is the Thief of Joy.**
 
