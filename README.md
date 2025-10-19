@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center">Hello 👋, This is Amruth</h1>
+<h1 align="center">Hello, This is Amruth 👋</h1>
 
 <h3 align="center">I love exploring Artificial Intelligence, Machine Learning, Data Science and Cloud. will be uploading my projects here when felt confident and done with 'em! </h3>
 
